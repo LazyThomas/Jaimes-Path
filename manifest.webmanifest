@@ -1,0 +1,11 @@
+{
+  "id": "./",
+  "name": "Jaime's Path — Every Step Counts",
+  "short_name": "Jaime's Path",
+  "description": "Personal nutrition and weight tracker",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f8f7f0",
+  "theme_color": "#315b43"
+}
